@@ -1,0 +1,3 @@
+/home/kaiun1221/RMDX/Task_02/opencv_project/build/CMakeFiles/OpenCV_Project.dir
+/home/kaiun1221/RMDX/Task_02/opencv_project/build/CMakeFiles/edit_cache.dir
+/home/kaiun1221/RMDX/Task_02/opencv_project/build/CMakeFiles/rebuild_cache.dir

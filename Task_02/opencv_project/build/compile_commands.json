@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kaiun1221/RMDX/Task_02/opencv_project/build",
+  "command": "/usr/bin/g++ -isystem /usr/local/include/opencv4 -g -o CMakeFiles/OpenCV_Project.dir/src/main.cpp.o -c /home/kaiun1221/RMDX/Task_02/opencv_project/src/main.cpp",
+  "file": "/home/kaiun1221/RMDX/Task_02/opencv_project/src/main.cpp",
+  "output": "CMakeFiles/OpenCV_Project.dir/src/main.cpp.o"
+}
+]
